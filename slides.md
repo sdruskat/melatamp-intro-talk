@@ -17,6 +17,7 @@ Note: - Introduction about project by Ana
 ## What do we do?
 
 #### <span class="fragment highlight-red">We</span> have corpora which we annotate and analyze, then publish the results.
+Note: Basically simple I/O, input, processing, output
 
 Kilu von Prince, Ana Krajinovic and Manfred Krifka annotate and analyze corpora.
 <!-- .element class="fragment" -->
