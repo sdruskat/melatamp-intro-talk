@@ -8,6 +8,10 @@ Humboldt-Universität zu Berlin
 [stephan.druskat@hu-berlin.de](mailto:firstname.lastname@hu-berlin.de)  
 <img src="./img/hu.png" alt="HU logo" style="border:0;" width="17%">
 
+Note: - Introduction about project by Ana
+- I will give a different perspective on the project
+- Methodological, data-centred
+
 
 
 ## What do we do?
