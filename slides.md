@@ -16,6 +16,12 @@ Note: - Introduction about project by Ana
 
 ## What do we do?
 
+### *In the MelaTAMP project, we perform agile, theory-informed, data-driven, corpus-based open linguistic research*
+
+
+
+## *What* do we do?
+
 #### <span class="fragment highlight-red">We</span> have corpora which we annotate and analyze, then publish the results.
 
 Kilu von Prince, Ana Krajinovic and Manfred Krifka annotate and analyze corpora.
