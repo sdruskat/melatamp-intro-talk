@@ -104,7 +104,7 @@ Unified (naming conventions)!***</span>
 
 Methodology!
 
-- Agile corpus creation: Iteration cycles of *modeling*, *annotation*, *analysis*
+- Agile corpus creation: Iterative cycles of *querying*, *modeling*, *annotation*, *analysis*
 - Tools: CLI (regex), text editors, Pepper, ANNIS
 
 
