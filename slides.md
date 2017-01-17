@@ -114,7 +114,7 @@ Methodology!
 
 - **"Traditional" venues:** Papers, talks, etc.
 - **Software:** Repositories (open source!), papers?
-- **Data sets:** Repositories, papers?
+- **Data sets:** Repositories (licensing?), papers?
 
 
 
