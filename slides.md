@@ -20,7 +20,7 @@ Note: - Introduction about project by Ana
 
 
 
-## *What* do we do?
+## What do we *actually* do?
 
 #### <span class="fragment highlight-red">We</span> have corpora which we annotate and analyze, then publish the results.
 
