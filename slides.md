@@ -37,7 +37,7 @@ Note: - Basically simple I/O, input, processing, output
 
 #### We have <span style="color:red;">corpora</span> which we annotate and analyze, then publish the results.
 
-- "Corpora": Language data from 7 languages
+- Language data from 7 languages, sources: elicitation, translation, colleagues
 
 - Data type? <span class="fragment">**Text (vs. audio) files!**</span>  
 <span class="fragment">*Established processing methods (parsing, regex, annotation, etc.)*</span>
